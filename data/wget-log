@@ -1,0 +1,101 @@
+--2018-12-24 15:44:45--  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Resolving ladoga.graphics.cs.cmu.edu (ladoga.graphics.cs.cmu.edu)... 128.2.220.68
+Connecting to ladoga.graphics.cs.cmu.edu (ladoga.graphics.cs.cmu.edu)|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2018-12-24 15:59:47--  (try: 2)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu (ladoga.graphics.cs.cmu.edu)|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2018-12-24 16:03:19--  (try: 3)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu (ladoga.graphics.cs.cmu.edu)|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2018-12-24 16:18:23--  (try: 4)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu (ladoga.graphics.cs.cmu.edu)|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2018-12-24 16:22:54--  (try: 5)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu (ladoga.graphics.cs.cmu.edu)|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2018-12-24 16:27:26--  (try: 6)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu (ladoga.graphics.cs.cmu.edu)|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2018-12-24 16:31:59--  (try: 7)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu (ladoga.graphics.cs.cmu.edu)|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2018-12-24 16:36:49--  (try: 8)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu (ladoga.graphics.cs.cmu.edu)|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2018-12-24 16:41:25--  (try: 9)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu (ladoga.graphics.cs.cmu.edu)|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2018-12-24 16:46:04--  (try:10)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu (ladoga.graphics.cs.cmu.edu)|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2018-12-24 16:49:38--  (try:11)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu (ladoga.graphics.cs.cmu.edu)|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2018-12-24 16:54:15--  (try:12)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu (ladoga.graphics.cs.cmu.edu)|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2018-12-24 16:58:16--  (try:13)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu (ladoga.graphics.cs.cmu.edu)|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2018-12-24 17:02:53--  (try:14)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu (ladoga.graphics.cs.cmu.edu)|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2018-12-24 17:07:29--  (try:15)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu (ladoga.graphics.cs.cmu.edu)|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2018-12-24 17:12:31--  (try:16)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu (ladoga.graphics.cs.cmu.edu)|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2018-12-24 17:17:42--  (try:17)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu (ladoga.graphics.cs.cmu.edu)|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2018-12-24 17:22:18--  (try:18)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu (ladoga.graphics.cs.cmu.edu)|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2018-12-24 17:26:54--  (try:19)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu (ladoga.graphics.cs.cmu.edu)|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2018-12-24 17:31:31--  (try:20)  http://ladoga.graphics.cs.cmu.edu/xinleic/tf-faster-rcnn/res101/voc_0712_80k-110k.tgz
+Connecting to ladoga.graphics.cs.cmu.edu (ladoga.graphics.cs.cmu.edu)|128.2.220.68|:80... connected.
+HTTP request sent, awaiting response... No data received.
+Giving up.
+
